@@ -21,7 +21,7 @@ public class SalaCine {
             asientos[fila][asiento] = true;
             return "Asiento reservado exitosamente";
         } else {
-            return "Asiento ya está reservado, no se puede ocupar";
+            return "Asiento ya estÃ¡ reservado, no se puede ocupar";
         }
     }
 
